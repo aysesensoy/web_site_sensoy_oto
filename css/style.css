@@ -1,0 +1,36 @@
+#zaman{
+    list-style-type: none;
+}
+.iletisim2{
+    text-decoration: none;
+    color: black;
+}
+.iletisimhr{
+    color: rgba(128, 128, 128, 0.712);
+    margin-bottom: 0;
+}
+.mklogo{
+    margin-top: 60px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    width: auto;
+    height: 100px;
+}
+.instalogo{
+    width: auto;
+    height: 50px;
+}
+ul{
+    list-style: none;
+}
+ul .urun_menu_li{
+    float: left;
+    margin-left: 50px;
+    text-decoration: none;
+    
+}
+a, p,h5{
+
+color: black;
+text-decoration-line:none;
+}

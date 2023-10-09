@@ -1,0 +1,17 @@
+.inputGiris{
+    min-width: 100%;
+    border-radius: 30px;
+    font-size:15pt;
+    margin-bottom: 20px;
+    border: 1px solid rgb(84, 91, 158);
+    text-align: center;
+}
+.inputGiris1{
+    height: 50px;
+}
+.inputGirisBtn{
+    background-color:rgb(68, 111, 146);
+    color: white;
+    width: 100px;
+    height: 40px;
+}
